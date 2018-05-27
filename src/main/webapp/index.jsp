@@ -15,7 +15,7 @@
         <div class="jumbotron">
             <h1>Good Morning ..!</h1>
             <h1>Welcome To sai surya borewells..!!!!  </h1>
-            <h1><a href="http://52.221.232.148:8080:8080"> saisuryaborewells.com </a></h1>
+            <h1><a href="http://52.221.232.148:8080"> saisuryaborewells.com </a></h1>
         </div>
     </div>
 
